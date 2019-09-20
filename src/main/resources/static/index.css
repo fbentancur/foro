@@ -1,0 +1,12 @@
+body{
+width:100vw;
+height: 100vh;
+}
+.TituloPrincipal{
+	text-align: center;
+	margin:auto;
+	border:thin solid black;
+	display: block;
+
+}
+
