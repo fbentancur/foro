@@ -1,4 +1,4 @@
-package org.facundo.foro;
+package org.facundo.foro.controladores;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.GetMapping;
 
